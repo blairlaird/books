@@ -1,0 +1,13 @@
+
+/* Add custom styles here, ensuring they don't conflict with Bootstrap's styles */
+.book-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.book {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
